@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">VolumeAreaApp</string>
+    <string name="description">Please Enter the radius</string>
 </resources>
